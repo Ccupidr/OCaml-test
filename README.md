@@ -1,8 +1,11 @@
 # OCaml-test
 ShortestPath Algorithm: Dijkstra in OCaml
 
+This is graph which we input:
 
-Run it you will see Output:
+![png](graph.png)
+
+And then run it you will see Output:
 
 Distance 0 to 1 : 3.000000	and the path is: 0->1
 
