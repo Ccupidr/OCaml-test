@@ -2,7 +2,7 @@
 ShortestPath Algorithm: Dijkstra in OCaml
 
 
-run it you will see Output:
+Run it you will see Output:
 
 Distance 0 to 1 : 3.000000	and the path is: 0->1
 
